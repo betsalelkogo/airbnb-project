@@ -1,0 +1,10 @@
+﻿  diralehaskir.cpp
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(978,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(1026,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(1444,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(1461,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(1691,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(1700,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(1847,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\porject\diralehaskir.cpp(1866,21): warning C4018: '<': signed/unsigned mismatch
+  porject.vcxproj -> C:\Users\betsa\OneDrive\שולחן העבודה\לימודים בצלאל\שנה ב\יסודות הנדסת תוכנה\פרויקט\porject\Debug\porject.exe
